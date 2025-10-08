@@ -69,7 +69,7 @@ export default function ContactUsPage() {
             <h2>send Message</h2>
             <p>
               Ready to get started? Fill out the form below with details about
-              your plumbing needs, and we&apso;ll get back to you promptly with
+              your plumbing needs, and we&apos;ll get back to you promptly with
               personalized solutions.
             </p>
 

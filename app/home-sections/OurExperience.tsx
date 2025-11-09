@@ -44,7 +44,7 @@ export default function OurExperience() {
         {/* Image */}
         <motion.div variants={variants.fadeIn} className="max-w-max mx-auto">
           <Image
-            src={"/images/section-img-2.png"}
+            src={"/images/section-img-02.png"}
             alt="section image"
             width={356}
             height={503}
